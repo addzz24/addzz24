@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aditya Bhosale  
+# Aditya Bhosale  👨🏻‍💻
 
 💻 **Senior Software Engineer  |  Full Stack Developer  |  Frontend Specialist**
 
@@ -17,6 +17,7 @@
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/><br><b>React.js</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/><br><b>JavaScript</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/><br><b>TypeScript</b></td>
+    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/><br><b>Java</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/><br><b>Spring Boot</b></td>
     <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/><br><b>Node.js</b></td>
   </tr>
