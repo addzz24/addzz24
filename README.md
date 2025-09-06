@@ -1,6 +1,8 @@
 # Aditya Bhosale  👨🏻‍💻
 
-### 💻 **Senior Software Engineer  |  Full Stack Developer  |  Frontend Specialist**
+### 🔰 **Senior Software Engineer  🔰  Full Stack Developer  🔰 Frontend Specialist**
+
+
 
 🚀 Passionate full-stack developer with 4.7+ years of experience building scalable, user-focused apps.  
 🌍 Worked across **low-code, e-learning, healthcare, and travel domains**.  
