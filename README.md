@@ -4,7 +4,7 @@
 
 🚀 Passionate full-stack developer with 4.7+ years of experience building scalable, user-focused apps.  
 🌍 Worked across **low-code, e-learning, healthcare, and travel domains**.  
-🛠 Skilled in **React, Next.js, Angular, Node.js/Nest.js, PostgreSQL, MongoDB**, and **AWS (Docker, Lambda, S3, RDS, CloudWatch, SQS)**.  
+🛠 Skilled in **React, Next.js, Angular, Node.js/Nest.js, PostgreSQL, MongoDB**, and **AWS**.  
 
 ---
 
